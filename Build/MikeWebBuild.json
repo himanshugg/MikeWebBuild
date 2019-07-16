@@ -1,0 +1,13 @@
+{
+"companyName": "Worklooper",
+"productName": "MikeDemo",
+"dataUrl": "MikeWebBuild.data.unityweb",
+"asmCodeUrl": "MikeWebBuild.asm.code.unityweb",
+"asmMemoryUrl": "MikeWebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "MikeWebBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
